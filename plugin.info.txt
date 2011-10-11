@@ -1,0 +1,7 @@
+base   unusedmedias
+author Johan Guilbaud
+email  guilbaud.johan@gmail.com
+date   2011-10-10
+name   Images et documents orphelins
+desc   Liste les images et documents inutilisés afin de pouvoir éventuellement les supprimer.
+url    http://www.dokuwiki.org/plugin:unusedmedias

@@ -25,7 +25,6 @@ class admin_plugin_unusedmedias_list extends DokuWiki_Admin_Plugin {
 	private $error 			= "";
 	private $ok				= "";
 	
-    public function getMenuSort() { return FIXME; }
     public function forAdminOnly() { return true; }
    
     public function handle() {

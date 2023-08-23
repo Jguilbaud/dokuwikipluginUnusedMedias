@@ -14,7 +14,6 @@ if (!defined('DOKU_LF')) define('DOKU_LF', "\n");
 if (!defined('DOKU_TAB')) define('DOKU_TAB', "\t");
 if (!defined('DOKU_PLUGIN')) define('DOKU_PLUGIN',DOKU_INC.'lib/plugins/');
 
-require_once DOKU_PLUGIN.'admin.php';
 
 //safe mode has to be disabled ! (safe mode is deprecated by php)
 @set_time_limit(0);
